@@ -72,7 +72,7 @@ public class Main {
                 logger.fatal("Fatal message");
         System.out.println(
         );
-        
+
             }
 
     }
