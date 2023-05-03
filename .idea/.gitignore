@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+/.src/main/java/MyFirstHttpProgram/Main.java/
+.logs/
+.target/
+
+
